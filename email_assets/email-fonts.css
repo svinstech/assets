@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "GT-America-Standard";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://app.vouch.us/fonts/GT-America-Standard-Regular.af7576ef.woff2") format('woff2'),
+}
+
+@font-face {
+  font-family: "Mirador";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://app.vouch.us/fonts/Mirador-SemiBold.5336b783.woff2") format('woff2'),
+}
