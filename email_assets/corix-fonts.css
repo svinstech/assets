@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "LexendDeca";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/LexendDeca-Regular.ttf") format('ttf'),
+}
+
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/Outfit-Regular.ttf") format('ttf'),
+}
