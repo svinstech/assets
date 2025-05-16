@@ -2,7 +2,7 @@
   font-family: "LexendDeca";
   font-style: normal;
   font-weight: normal;
-  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/LexendDeca-Regular.ttf") format('truetype'),
+  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/LexendDeca.woff") format('woff'),
 }
 
 
@@ -10,5 +10,5 @@
   font-family: "Outfit";
   font-style: normal;
   font-weight: normal;
-  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/Outfit-Regular.ttf") format('truetype'),
+  src: url("https://raw.githubusercontent.com/svinstech/assets/master/corix_fonts/Outfit.woff") format('woff'),
 }
